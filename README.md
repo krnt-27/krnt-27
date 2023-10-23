@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, Saya Kurnianto</h1>
 <h3 align="center">Penggemar IoT dan AI</h3>
 
