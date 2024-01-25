@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Saya Kurnianto</h1>
 <h3 align="center">Penggemar IoT dan AI</h3>
 
-- 🌱 Sekarang sedang belajar **Python for AI**
+- 🌱 Sekarang sedang fokus **Mencari Pekerjaan 😁**
 
 - 📫 Kontak **ahmanto90@gmail.com**
 
