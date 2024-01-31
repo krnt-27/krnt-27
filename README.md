@@ -7,6 +7,8 @@
 
 - ⚡ Motto **Masih Learning**
 
+- 💡 Dokumentasi Projek Sederhana bisa cek di Instagram <span><a href="https://www.instagram.com/nge.cer/" target="_blank" rel="noreferrer">Ngecer (Ngembedd Ceria)</span>
+
 <!-- <h3 align="left">Terhubung dengan saya:</h3> -->
 <p align="left">
 </p>
