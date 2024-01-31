@@ -3,7 +3,7 @@
 
 - 🌱 Sekarang sedang fokus **Mencari Pekerjaan 😁**
 
-- 📫 Kontak **ahmanto90@gmail.com**
+- 📫 Kontak **furqonkurnianto27@gmail.com**
 
 - ⚡ Motto **Masih Learning**
 
