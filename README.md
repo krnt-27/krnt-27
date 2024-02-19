@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Saya Kurnianto</h1>
-<h3 align="center">Penggemar IoT dan AI</h3>
+<h3 align="center">Penggemar Programming, IoT dan AI</h3>
 
 - 🌱 Sekarang sedang fokus **Mencari Pekerjaan 😁**
 
