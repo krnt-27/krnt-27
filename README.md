@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Saya Kurnianto</h1>
 <h3 align="center">Penggemar Programming, IoT dan AI</h3>
 
-- 🌱 Sekarang sedang fokus **Mencari Pekerjaan 😁**
+- 🌱 Sekarang bekerja sebagai **embedded engineer 😁**
 
 - 📫 Kontak **furqonkurnianto27@gmail.com**
 
